@@ -44,6 +44,26 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 
+**📈 Digital Marketing & SEO:**
+
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-FF6F00?style=flat&logo=google-analytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/-Meta%20Ads-1877F2?style=flat&logo=meta&logoColor=white)
+![Facebook Business](https://img.shields.io/badge/-Facebook%20Business-1877F2?style=flat&logo=facebook&logoColor=white)
+![Instagram Ads](https://img.shields.io/badge/-Instagram%20Marketing-E4405F?style=flat&logo=instagram&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
+![SEO](https://img.shields.io/badge/-SEO-0A66C2?style=flat&logo=yoast&logoColor=white)
+
+
+**🎬 Video Editing & Multimedia:**
+
+![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
+![CapCut](https://img.shields.io/badge/-CapCut-000000?style=flat&logo=capcut&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Filmora](https://img.shields.io/badge/-Filmora-0F9D58?style=flat&logo=filmora&logoColor=white)
+
+
 ---
 
 ### 📌 Featured Projects
