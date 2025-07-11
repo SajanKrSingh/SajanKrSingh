@@ -92,8 +92,9 @@ Upload and parse CSV files with clean UI
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SajanKrSingh&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=SajanKrSingh&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SajanKrSingh&theme=tokyonight" />
 </p>
+
 
 
 
